@@ -1,26 +1,4 @@
 body{
-    background-color: lemonchiffon;
+    background-color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-#container{
-width: 1100px;
-margin: 0px auto;
-border: 1px solid darkred
-}
-
-h1{
-    background-color: peru;
-    font-style: italic;
-    font-size: larger;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-variant: small-caps;   
-}
-ul{
-    background-color: peru;
-    font-style: italic;
-    font-size: larger;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-variant: small-caps; 
-
 }
