@@ -1,7 +1,7 @@
 
 //datos primitivos
 
-var num = 10;
+var num = 20;
 var str = "texto"
 var bol = true;
 var und = undefined;
